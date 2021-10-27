@@ -1,0 +1,13 @@
+{
+  "name": "webp-conv",
+  "version": "1.0.0",
+  "description": "Batch converts PNG/JPG to WebP with optimum settings for Instant games",
+  "main": "index.js",
+  "scripts": {
+    "go": "node index.js",
+    "help": "node index.js -h"
+  },
+  "keywords": ["webp", "instant-games", "instant", "html5", "nodejs", "javascript"],
+  "author": "Sam Lynch",
+  "license": "MIT"
+}
